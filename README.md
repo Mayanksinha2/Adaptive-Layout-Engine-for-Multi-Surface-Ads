@@ -10,18 +10,3 @@ A frontend R&D assignment demonstrating reusable React + TypeScript components, 
 - PNG export using `html-to-image`
 - Responsive UI for desktop and mobile
 
-## Run locally
-```bash
-npm install
-npm run dev
-```
-
-## Build
-```bash
-npm run build
-```
-
-## Deployment
-Deploy the repository on Vercel or Netlify using:
-- Build command: `npm run build`
-- Output directory: `dist`
